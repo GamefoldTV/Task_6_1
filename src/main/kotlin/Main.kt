@@ -114,7 +114,7 @@ fun main(args: Array<String>) {
         Likes(4873, true, true,true),
         Reposts(23, false),
         Views(21),
-        "post", //post, copy, reply, postpone, suggest
+        "post", 
         null,
         arrayOf(attachmentAudio1,attachmentVideo1),
         null,
